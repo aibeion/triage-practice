@@ -1,0 +1,1 @@
+fever_threshold_f = 100.4
