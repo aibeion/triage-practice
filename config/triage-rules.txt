@@ -1,1 +1,1 @@
-fever_threshold_f = 100.4
+fever_threshold_f = 101.5
